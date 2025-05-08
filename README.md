@@ -6,7 +6,6 @@ Certainly! Based on the structure of the [DDoS-Detection-With-AI](https://github
 
 An end-to-end system for detecting deepfake audio using machine learning. The project features two models: a baseline model achieving 88% accuracy and an advanced model reaching 93% accuracy. Built with Django for the backend and a user-friendly web interface for audio analysis.
 
-![Dashboard Screenshot](path_to_dashboard_screenshot.png)
 
 ## 📌 Table of Contents
 
@@ -134,6 +133,4 @@ Located in the `steganoapp/` directory, these tools enable:
 
 This project is licensed under the MIT License.
 
----
 
-Feel free to customize this README further to match any additional features or specific details of your project.
