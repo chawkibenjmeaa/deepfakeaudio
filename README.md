@@ -1,7 +1,3 @@
-Certainly! Based on the structure of the [DDoS-Detection-With-AI](https://github.com/tahangz/DDoS-Detection-With-AI) repository, here's a tailored `README.md` for your [deepfakeaudio](https://github.com/chawkibenjmeaa/deepfakeaudio) project, incorporating details about the two models with 88% and 93% accuracy:
-
----
-
 # 🎙️ Deepfake Audio Detection with AI
 
 An end-to-end system for detecting deepfake audio using machine learning. The project features two models: a baseline model achieving 88% accuracy and an advanced model reaching 93% accuracy. Built with Django for the backend and a user-friendly web interface for audio analysis.
